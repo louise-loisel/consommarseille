@@ -1,0 +1,14 @@
+body{
+    background-color:powderblue;
+    }
+ 
+.grand_centre {
+    color: grey;
+    font-family: verdana;
+    font-size: 200%;
+    text-align: center;
+              }
+
+ .image_centre {
+    text-align: center;
+}
